@@ -1,1 +1,2 @@
 ﻿get-process
+get-service
